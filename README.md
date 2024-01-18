@@ -8,7 +8,7 @@ TUBS is a chatbot that is well versed in the Bitcoin Standard. Think of it as a 
 * RAG
 * Langchain
 
-# Plan 
+# Plan https://github.com/alokm/TUBS/blob/main/README.md
 
 A typical RAG application has two main components:
 
